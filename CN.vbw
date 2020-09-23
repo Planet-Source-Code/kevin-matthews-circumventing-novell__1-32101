@@ -1,0 +1,4 @@
+frmMain = 66, 66, 385, 369, Z, 0, 0, 319, 303, C
+modShell = 132, 132, 451, 435, C
+modSetVolume = 66, 66, 408, 370, C
+modRegistry = 0, 0, 377, 352, C
